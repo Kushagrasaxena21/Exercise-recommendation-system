@@ -1,0 +1,151 @@
+exercise_id,exercise_name,exercise_type,muscle_group,difficulty,reps,sets,equipment_needed,num_ratings,star_rating
+1,Push Up,Strength,Chest,Easy,15,3,No,52,4.440961538461538
+2,Pull Up,Strength,Back,Hard,10,3,Yes,70,4.8
+3,Jumping Jacks,Cardio,Full Body,Easy,50,1,No,100,4.2
+4,Squats,Strength,Legs,Medium,20,3,No,80,4.7
+5,Plank,Strength,Core,Medium,1,3,No,30,4.6
+6,Deadlift,Strength,Legs,Hard,10,3,Yes,150,4.9
+7,Bicep Curl,Strength,Arms,Easy,15,3,Yes,60,4.3
+8,Burpees,Cardio,Full Body,Medium,15,3,No,120,4.4
+9,Lunges,Strength,Legs,Medium,15,3,No,90,4.5
+10,Shoulder Press,Strength,Shoulders,Medium,12,3,Yes,70,4.6
+11,Bench Press,Strength,Chest,Hard,10,3,Yes,130,4.8
+12,Mountain Climbers,Cardio,Full Body,Medium,20,3,No,110,4.4
+13,Tricep Dips,Strength,Arms,Medium,15,3,Yes,60,4.5
+14,Russian Twist,Strength,Core,Medium,20,3,No,50,4.7
+15,Bent Over Row,Strength,Back,Hard,12,3,Yes,120,4.8
+16,Leg Press,Strength,Legs,Hard,12,3,Yes,140,4.6
+17,High Knees,Cardio,Full Body,Easy,30,3,No,90,4.2
+18,Calf Raises,Strength,Legs,Easy,20,3,No,50,4.3
+19,Crunches,Strength,Core,Easy,25,3,No,40,4.5
+20,Lat Pulldown,Strength,Back,Medium,12,3,Yes,100,4.7
+21,Glute Bridge,Strength,Glutes,Easy,15,3,No,60,4.4
+22,Rowing,Cardio,Full Body,Hard,1,3,Yes,150,4.9
+23,Leg Curl,Strength,Legs,Medium,15,3,Yes,90,4.6
+24,Bicycle Crunches,Strength,Core,Medium,20,3,No,60,4.5
+25,Kettlebell Swing,Strength,Full Body,Medium,15,3,Yes,110,4.7
+26,Dumbbell Flyes,Strength,Chest,Medium,12,3,Yes,80,4.6
+27,Chest Press,Strength,Chest,Hard,10,3,Yes,120,4.8
+28,Step-Ups,Cardio,Legs,Easy,15,3,Yes,90,4.3
+29,Hammer Curl,Strength,Arms,Medium,15,3,Yes,60,4.4
+30,Side Plank,Strength,Core,Medium,1,3,No,30,4.5
+31,Jump Squats,Cardio,Legs,Medium,15,3,No,120,4.6
+32,Spinning,Cardio,Full Body,Hard,1,1,Yes,300,4.9
+33,Flutter Kicks,Strength,Core,Medium,20,3,No,50,4.5
+34,Dumbbell Rows,Strength,Back,Medium,15,3,Yes,80,4.6
+35,Skaters,Cardio,Full Body,Medium,20,3,No,100,4.4
+36,Treadmill Running,Cardio,Full Body,Hard,1,1,Yes,280,4.7
+37,Wall Sit,Strength,Legs,Medium,1,3,No,40,4.3
+38,Seated Leg Press,Strength,Legs,Medium,15,3,Yes,100,4.6
+39,Medicine Ball Slams,Strength,Full Body,Medium,15,3,Yes,110,4.5
+40,Bench Dips,Strength,Arms,Medium,15,3,Yes,60,4.4
+41,Elliptical,Cardio,Full Body,Medium,1,1,Yes,250,4.6
+42,TRX Rows,Strength,Back,Medium,15,3,Yes,90,4.5
+43,Climbing Stairs,Cardio,Legs,Medium,1,3,Yes,150,4.7
+44,Box Jumps,Strength,Legs,Medium,15,3,Yes,120,4.6
+45,Battle Ropes,Cardio,Arms,Hard,1,3,Yes,140,4.8
+46,Seated Row,Strength,Back,Medium,15,3,Yes,90,4.6
+47,Leg Extension,Strength,Legs,Medium,15,3,Yes,80,4.4
+48,Superman,Strength,Back,Easy,15,3,No,50,4.5
+49,Reverse Lunges,Strength,Legs,Medium,15,3,No,81,4.26
+50,Overhead Press,Strength,Shoulders,Hard,12,3,Yes,90,4.7
+51,Treadmill Walking,Cardio,Full Body,Easy,1,1,Yes,150,4.2
+52,Turkish Get-Up,Strength,Full Body,Hard,10,3,Yes,120,4.8
+53,Pilates,Flexibility,Core,Medium,1,1,Yes,200,4.5
+54,Yoga,Flexibility,Full Body,Medium,1,1,Yes,180,4.6
+55,Jump Rope,Cardio,Full Body,Medium,1,3,Yes,132,4.848484848484849
+56,Incline Bench Press,Strength,Chest,Hard,10,3,Yes,140,4.7
+57,Hip Thrust,Strength,Glutes,Medium,15,3,Yes,90,4.5
+58,Bosu Ball Balance,Stability,Core,Easy,15,3,Yes,40,4.3
+59,TRX Push-Ups,Strength,Chest,Medium,12,3,Yes,70,4.6
+60,Cable Flyes,Strength,Chest,Hard,12,3,Yes,100,4.7
+61,Rower,Cardio,Full Body,Hard,1,1,Yes,150,4.8
+62,Seated Leg Curl,Strength,Legs,Medium,15,3,Yes,90,4.6
+63,Tricep Extension,Strength,Arms,Medium,15,3,Yes,70,4.5
+64,Hanging Leg Raise,Strength,Core,Hard,15,3,Yes,60,4.7
+65,Incline Push Up,Strength,Chest,Easy,15,3,No,50,4.4
+66,Farmer's Walk,Strength,Full Body,Medium,1,3,Yes,100,4.6
+67,Single Leg Deadlift,Strength,Legs,Hard,12,3,Yes,80,4.7
+68,Arnold Press,Strength,Shoulders,Medium,12,3,Yes,80,4.6
+69,Face Pull,Strength,Shoulders,Medium,15,3,Yes,70,4.5
+70,Cable Crunch,Strength,Core,Medium,20,3,Yes,60,4.6
+71,Hack Squat,Strength,Legs,Hard,12,3,Yes,140,4.7
+72,Sumo Deadlift,Strength,Legs,Hard,10,3,Yes,150,4.8
+73,Decline Bench Press,Strength,Chest,Hard,10,3,Yes,130,4.7
+74,Overhead Tricep Extension,Strength,Arms,Medium,15,3,Yes,70,4.6
+75,Jump Squat,Strength,Legs,Medium,15,3,No,120,4.7
+76,Forward Lunge,Strength,Legs,Medium,15,3,No,90,4.4
+77,One Arm Push-Up,Strength,Chest,Hard,10,3,No,60,4.6
+78,Handstand Push-Up,Strength,Shoulders,Hard,10,3,No,80,4.8
+79,Diamond Push-Up,Strength,Arms,Medium,15,3,No,70,4.5
+80,Clap Push-Up,Strength,Chest,Medium,12,3,No,60,4.6
+81,Pistol Squat,Strength,Legs,Hard,10,3,No,50,4.8
+82,Standing Calf Raise,Strength,Legs,Easy,20,3,No,40,4.3
+83,Wide-Grip Pull-Up,Strength,Back,Hard,10,3,Yes,50,4.7
+84,Close-Grip Bench Press,Strength,Chest,Medium,12,3,Yes,80,4.5
+85,Incline Dumbbell Press,Strength,Chest,Medium,12,3,Yes,70,4.6
+86,Decline Push-Up,Strength,Chest,Medium,15,3,No,60,4.4
+87,Weighted Dip,Strength,Arms,Hard,10,3,Yes,70,4.7
+88,Weighted Pull-Up,Strength,Back,Hard,10,3,Yes,60,4.8
+89,Power Clean,Strength,Full Body,Hard,10,3,Yes,80,4.7
+90,Hang Clean,Strength,Full Body,Hard,10,3,Yes,70,4.7
+91,Barbell Row,Strength,Back,Medium,12,3,Yes,90,4.6
+92,Military Press,Strength,Shoulders,Hard,10,3,Yes,80,4.7
+93,Barbell Curl,Strength,Arms,Medium,15,3,Yes,70,4.4
+94,Spider Curl,Strength,Arms,Medium,12,3,Yes,60,4.5
+95,Skull Crusher,Strength,Arms,Medium,12,3,Yes,70,4.6
+96,Concentration Curl,Strength,Arms,Medium,12,3,Yes,50,4.5
+97,Preacher Curl,Strength,Arms,Medium,12,3,Yes,60,4.5
+98,Russian Leg Curl,Strength,Legs,Hard,10,3,No,40,4.6
+99,L-Sit,Strength,Core,Hard,1,3,No,30,4.7
+100,Planche,Strength,Full Body,Hard,1,3,No,20,4.9
+101,Dragon Flag,Strength,Core,Hard,10,3,No,30,4.8
+102,Muscle Up,Strength,Full Body,Hard,10,3,Yes,50,4.7
+103,Front Lever,Strength,Back,Hard,1,3,Yes,20,4.8
+104,Back Lever,Strength,Back,Hard,1,3,Yes,20,4.8
+105,Human Flag,Strength,Full Body,Hard,1,3,Yes,10,4.9
+106,Sit-Up,Strength,Core,Easy,25,3,No,60,4.2
+107,Decline Sit-Up,Strength,Core,Medium,20,3,Yes,50,4.4
+108,Hollow Body Hold,Strength,Core,Medium,1,3,No,30,4.5
+109,Flutter Kicks,Strength,Core,Medium,20,3,No,40,4.4
+110,Ab Wheel Rollout,Strength,Core,Hard,12,3,Yes,50,4.6
+111,Stability Ball Rollout,Strength,Core,Medium,12,3,Yes,40,4.5
+112,Reverse Crunch,Strength,Core,Medium,20,3,No,40,4.5
+113,Leg Raise,Strength,Core,Medium,15,3,No,50,4.5
+114,Windshield Wipers,Strength,Core,Hard,10,3,Yes,30,4.7
+115,Side Leg Raise,Strength,Legs,Easy,20,3,No,40,4.3
+116,Standing Oblique Crunch,Strength,Core,Medium,20,3,No,30,4.4
+117,Oblique Sit-Up,Strength,Core,Medium,20,3,No,40,4.5
+118,Standing Knee Raise,Strength,Core,Easy,20,3,No,50,4.2
+119,Suitcase Deadlift,Strength,Full Body,Hard,10,3,Yes,60,4.7
+120,Zercher Squat,Strength,Legs,Hard,10,3,Yes,40,4.8
+121,Boxing,Cardio,Full Body,Hard,1,3,Yes,70,4.8
+122,Speed Bag,Cardio,Arms,Medium,1,3,Yes,50,4.5
+123,Heavy Bag,Cardio,Full Body,Hard,1,3,Yes,60,4.8
+124,Shadow Boxing,Cardio,Full Body,Medium,1,3,No,40,4.4
+125,Elliptical Sprints,Cardio,Full Body,Hard,1,1,Yes,100,4.7
+126,Rowing Machine,Cardio,Full Body,Hard,1,1,Yes,110,4.8
+127,Box Jumps,Strength,Legs,Medium,15,3,Yes,120,4.6
+128,Wall Ball,Strength,Full Body,Medium,15,3,Yes,80,4.5
+129,Medicine Ball Toss,Strength,Full Body,Medium,15,3,Yes,70,4.5
+130,Farmer’s Carry,Strength,Full Body,Medium,1,3,Yes,90,4.6
+131,Yoke Walk,Strength,Full Body,Hard,1,3,Yes,30,4.8
+132,Tire Flip,Strength,Full Body,Hard,10,3,Yes,40,4.7
+133,Sled Push,Strength,Full Body,Hard,1,3,Yes,60,4.8
+134,Log Press,Strength,Shoulders,Hard,10,3,Yes,20,4.7
+135,Atlas Stone Lift,Strength,Full Body,Hard,10,3,Yes,20,4.7
+136,Car Deadlift,Strength,Legs,Hard,10,3,Yes,10,4.9
+137,Finger Strengthener,Strength,Arms,Medium,20,3,Yes,30,4.5
+138,Wrist Curl,Strength,Arms,Medium,15,3,Yes,40,4.4
+139,Reverse Wrist Curl,Strength,Arms,Medium,15,3,Yes,30,4.4
+140,Grip Strengthener,Strength,Arms,Medium,20,3,Yes,20,4.5
+141,Pegboard Climb,Strength,Full Body,Hard,1,3,Yes,10,4.9
+142,Arm Wrestling,Strength,Arms,Hard,1,3,Yes,10,4.8
+143,Car Push,Strength,Full Body,Hard,1,3,Yes,20,4.9
+144,Rope Climb,Strength,Full Body,Hard,1,3,Yes,30,4.8
+145,Sandbag Carry,Strength,Full Body,Hard,1,3,Yes,20,4.7
+146,Weighted Vest Walk,Cardio,Full Body,Medium,1,1,Yes,40,4.6
+147,Weighted Vest Run,Cardio,Full Body,Hard,1,1,Yes,50,4.7
+148,Farmer’s Carry,Strength,Full Body,Medium,1,3,Yes,60,4.5
+149,Yoke Walk,Strength,Full Body,Hard,1,3,Yes,30,4.8
+150,Tire Flip,Strength,Full Body,Hard,10,3,Yes,20,4.7
